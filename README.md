@@ -1,1 +1,1 @@
-# class-122-pro
+# PRO-C122-Project-Boilerplate
